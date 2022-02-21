@@ -1,0 +1,8 @@
+# Ignoring node_modules folder
+node_modules
+
+
+# Ignoring .cnv files
+*.env
+config.env
+
